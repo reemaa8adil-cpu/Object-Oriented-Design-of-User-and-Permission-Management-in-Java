@@ -24,5 +24,4 @@ A university project developed using Java to demonstrate Object-Oriented Program
 2. Open the project in NetBeans.
 3. Run `CampusIncidentVault.java`.
 
-## Author
-Your Name
+
