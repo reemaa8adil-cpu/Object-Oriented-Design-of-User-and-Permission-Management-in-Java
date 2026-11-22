@@ -25,3 +25,4 @@ A university project developed using Java to demonstrate Object-Oriented Program
 3. Run `CampusIncidentVault.java`.
 
 
+<img width="853" height="684" alt="Screenshot 2026-11-22 180354" src="https://github.com/user-attachments/assets/4dc421c0-2cc1-45bd-8c7a-bc7bf69e6731" />
